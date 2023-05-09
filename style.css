@@ -15,7 +15,7 @@ body {
 }
 main {
   max-width: 68.75rem;
-/*   margin: 7.5rem auto 60px auto; */
+/*   margin: 6.5rem auto 4.5rem auto; */
   display: grid;
   grid-template-columns: 1fr 1fr;
 /*   justify-content: center; */
